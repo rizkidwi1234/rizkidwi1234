@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-rizkidwi1234/rizkidwi1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rizkidwi1234/aplikasi penjualan sampah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
